@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interviewproject/static/css/main.0c528f23.css",
+    "main.js": "/interviewproject/static/js/main.dfd9627b.js",
+    "static/media/img2.png": "/interviewproject/static/media/img2.9736a9a8becfb0b429e0.png",
+    "static/media/YoungLabsLogo.png": "/interviewproject/static/media/YoungLabsLogo.fd5250112b5248711b1e.png",
+    "index.html": "/interviewproject/index.html",
+    "main.0c528f23.css.map": "/interviewproject/static/css/main.0c528f23.css.map",
+    "main.dfd9627b.js.map": "/interviewproject/static/js/main.dfd9627b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c528f23.css",
+    "static/js/main.dfd9627b.js"
+  ]
+}
